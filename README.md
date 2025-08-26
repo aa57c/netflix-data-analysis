@@ -48,6 +48,7 @@ Here are some of the insights (full set in the `output/` folder):
 ---
 
 ## 📂 Repository Structure
+```bash
 ├── output/ # Generated plots
 │ ├── content_added_per_year.png
 │ ├── ratings_dist_by_content.png
@@ -55,6 +56,7 @@ Here are some of the insights (full set in the `output/` folder):
 │ └── ...
 ├── netflix-data-analysis.ipynb # Jupyter/Kaggle notebook (analysis code)
 ├── README.md # Project documentation
+```
 
 ---
 
