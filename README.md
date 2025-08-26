@@ -39,6 +39,10 @@ Here are some of the insights (full set in the `output/` folder):
 | ![](output/movies_v_tv.png) | ![](output/top_15_genres.png) |
 
 ---
+## 📈 For Content Growth by Genre Over Time
+
+Insight: Netflix’s content growth is not uniform across genres. From 2015 onward, genres like Documentaries and Dramas showed a steep increase, while Comedies and Action grew at a slower pace. This indicates a strategic shift toward more serious, story-driven content.
+![](output/content_growth_by_top_5_genres.png)
 
 ## 🛠️ Tools & Libraries
 - **Python**: pandas, numpy  
